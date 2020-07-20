@@ -106,3 +106,7 @@ dist
 
 # TernJS port file
 .tern-port
+
+# ignore solved activities, and master homework folders
+solved/
+master/
